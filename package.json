@@ -11,11 +11,11 @@
   "exports": {
     "import": {
       "default": "./lib/index.esm.js",
-      "types": "./lib/index.d.ts"
+      "types": "./lib/types/index.d.ts"
     },
     "require": {
       "default": "./lib/index.cjs",
-      "types": "./lib/index.d.ts"
+      "types": "./lib/types/index.d.ts"
     }
   },
   "files": [
