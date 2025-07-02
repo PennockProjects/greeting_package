@@ -1,5 +1,11 @@
 # @pennockprojects/greeting-package
 
+## 1.2.1
+
+### Patch Changes
+
+- 421125e: Night greet changed text to warmer
+
 ## 1.2.0
 
 ### Minor Changes
