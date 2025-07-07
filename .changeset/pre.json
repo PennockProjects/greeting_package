@@ -4,5 +4,7 @@
   "initialVersions": {
     "@pennockprojects/greeting-package": "1.2.1"
   },
-  "changesets": []
+  "changesets": [
+    "smart-rules-march"
+  ]
 }
