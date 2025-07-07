@@ -1,5 +1,11 @@
 # @pennockprojects/greeting-package
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- c570bed: Created a monarch cats morning greet
+
 ## 1.2.1
 
 ### Patch Changes
