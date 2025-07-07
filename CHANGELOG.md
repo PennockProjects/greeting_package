@@ -1,5 +1,17 @@
 # @pennockprojects/greeting-package
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- 306ec73: Added Grumpy to monarch cats
+
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- c570bed: Created a monarch cats morning greet
+
 ## 1.2.2
 
 ### Patch Changes
