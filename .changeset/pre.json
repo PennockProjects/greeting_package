@@ -5,6 +5,7 @@
     "@pennockprojects/greeting-package": "1.2.1"
   },
   "changesets": [
+    "busy-dryers-behave",
     "smart-rules-march"
   ]
 }
