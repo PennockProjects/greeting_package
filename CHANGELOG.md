@@ -1,5 +1,11 @@
 # @pennockprojects/greeting-package
 
+## 1.2.2
+
+### Patch Changes
+
+- 16dac0a: Night greet changed
+
 ## 1.2.1
 
 ### Patch Changes
