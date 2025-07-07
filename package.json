@@ -1,6 +1,6 @@
 {
   "name": "@pennockprojects/greeting-package",
-  "version": "2.0.0-beta.1",
+  "version": "2.0.0",
   "description": "Training code from 'Creating NPM packages: The Complete Guide' by Codee Feldmann, This package is for greeting a person during the day",
   "repository": {
     "type": "git",
